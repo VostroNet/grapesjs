@@ -22,7 +22,7 @@ export default {
         {
           active: true,
           id: swv,
-          className: 'fa fa-square-o',
+          className: 'fa fa-square',
           command: swv,
           context: swv,
           attributes: { title: 'View components' }

@@ -46,7 +46,7 @@ component.get('tagName');
 -   `hoverable` **[Boolean][3]?** Shows a highlight outline when hovering on the element if `true`. Default: `true`
 -   `void` **[Boolean][3]?** This property is used by the HTML exporter as void elements don't have closing tags, eg. `<br/>`, `<hr/>`, etc. Default: `false`
 -   `content` **[String][1]?** Content of the component (not escaped) which will be appended before children rendering. Default: `''`
--   `icon` **[String][1]?** Component's icon, this string will be inserted before the name (in Layers and badge), eg. it can be an HTML string '<i class="fa fa-square-o"></i>'. Default: `''`
+-   `icon` **[String][1]?** Component's icon, this string will be inserted before the name (in Layers and badge), eg. it can be an HTML string '<i class="fa fa-square"></i>'. Default: `''`
 -   `script` **([String][1] \| [Function][6])?** Component's javascript. More about it [here][7]. Default: `''`
 -   `script-export` **([String][1] \| [Function][6])?** You can specify javascript available only in export functions (eg. when you get the HTML).
     If this property is defined it will overwrite the `script` one (in export functions). Default: `''`
