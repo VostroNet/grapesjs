@@ -1,7 +1,7 @@
 {
-  "name": "@vostro/grapesjs",
+  "name": "grapesjs",
   "description": "Free and Open Source Web Builder Framework",
-  "version": "0.15.10-p1",
+  "version": "0.15.10-p2",
   "author": "Artur Arseniev",
   "license": "BSD-3-Clause",
   "homepage": "http://grapesjs.com",
