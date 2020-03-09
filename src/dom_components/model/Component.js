@@ -676,7 +676,7 @@ const Component = Backbone.Model.extend(Styleable).extend(
         }
         if (model.get('removable')) {
           tb.push({
-            attributes: { class: 'fa fa-trash-o' },
+            attributes: { class: 'fa fa-trash' },
             command: 'tlb-delete'
           });
         }

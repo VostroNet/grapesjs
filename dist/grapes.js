@@ -29968,7 +29968,7 @@ var Component = backbone__WEBPACK_IMPORTED_MODULE_5___default.a.Model.extend(dom
       if (model.get('removable')) {
         tb.push({
           attributes: {
-            class: 'fa fa-trash-o'
+            class: 'fa fa-trash'
           },
           command: 'tlb-delete'
         });
